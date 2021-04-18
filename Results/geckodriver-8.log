@@ -1,0 +1,13 @@
+1618641923945	geckodriver	INFO	Listening on 127.0.0.1:49773
+1618641927016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kalmazan\\AppData\\Local\\Temp\\rust_mozprofiletWAntp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618641933294	Marionette	INFO	Listening on port 49789
+1618641933679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/inspector/rules/rules.js, line 1328: TypeError: this._elementStyle is null
+JavaScript error: resource://devtools/client/inspector/rules/rules.js, line 1328: TypeError: this._elementStyle is null
+JavaScript error: resource://devtools/client/inspector/rules/rules.js, line 1328: TypeError: this._elementStyle is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618643866418	Marionette	INFO	Stopped listening on port 49789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
